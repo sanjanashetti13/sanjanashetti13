@@ -12,7 +12,7 @@ I love learning by **building fast prototypes** 🚀—whether it’s apps, dApp
 - **Web Development**: HTML, CSS, JavaScript, React (beginner)  
 - **Databases**: MySQL, MongoDB  
 - **Blockchain**: Solidity (basics), Web3.js (learning), Smart Contract fundamentals  
-- **Other**: Git/GitHub, Linux, Data Structures & Algorithms  
+- **Other**: Git/GitHub, Linux, Data Structures & Algorithms, BlockChain
 
 ---
 
@@ -25,13 +25,13 @@ I love learning by **building fast prototypes** 🚀—whether it’s apps, dApp
 ---
 
 ## 🚀 Featured Projects  
-🔹 **[XyloBot (Award-winning Project)](https://github.com/your-repo-link)**  
-Bot that plays xylophone keys using motors and programmed logic.  
+🔹 [XyloBot (Award-winning Project)]  
+Bot that plays xylophone keys using motors, aurdino and programmed logic.It included hardware with software integration.   
 
-🔹 **[EduChainGuard](https://github.com/your-repo-link)** *(Blockchain + AI Project)*  
-Decentralized platform for secure academic records, integrated with AI for fraud detection.  
+🔹 **EduChainGuard(Blockchain+AI Project)
+Decentralized platform for secure academic records, integrated with AI for fraud detection(It is currently in progress)
 
-🔹 **[Personal Portfolio Website](https://github.com/your-repo-link)**  
+🔹 **Personal Portfolio Website**  
 Static portfolio site built with HTML/CSS/JS.  
 
 ---
@@ -45,8 +45,8 @@ Static portfolio site built with HTML/CSS/JS.
 
 ## 🌐 Connect With Me  
 - 📧 [sanjanashetti13@gmail.com](mailto:sanjanashetti13@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- 🐙 [GitHub](https://github.com/your-username)  
+- 💼 [LinkedIn](www.linkedin.com/in/sanjana-shetti-8bb8072ab)  
+  
 
 ---
 
