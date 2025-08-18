@@ -25,10 +25,10 @@ I love learning by **building fast prototypes** 🚀—whether it’s apps, dApp
 ---
 
 ## 🚀 Featured Projects  
-🔹 [XyloBot (Award-winning Project)]  
+🔹 **XyloBot (Award-winning Project)**  
 Bot that plays xylophone keys using motors, aurdino and programmed logic.It included hardware with software integration.   
 
-🔹 **EduChainGuard(Blockchain+AI Project)
+🔹 **EduChainGuard(Blockchain+AI Project)**
 Decentralized platform for secure academic records, integrated with AI for fraud detection(It is currently in progress)
 
 🔹 **Personal Portfolio Website**  
