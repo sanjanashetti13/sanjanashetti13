@@ -45,7 +45,7 @@ Static portfolio site built with HTML/CSS/JS.
 
 ## 🌐 Connect With Me  
 - 📧 [sanjanashetti13@gmail.com](mailto:sanjanashetti13@gmail.com)  
-- 💼 [LinkedIn](www.linkedin.com/in/sanjana-shetti-8bb8072ab)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sanjana-shetti-8bb8072ab/)  
   
 
 ---
