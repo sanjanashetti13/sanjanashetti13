@@ -39,7 +39,7 @@ Static portfolio site built with HTML/CSS/JS.
 ## 🏆 Achievements  
 - 🥇 Winner of **Exploratory Engineering Project Award** for XyloBot (1st year).  
 - 🌟 Built multiple academic + personal projects using C, C++, and React.  
-- 🎯 Selected for hackathons & developer events.  
+
 
 ---
 
