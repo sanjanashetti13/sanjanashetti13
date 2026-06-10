@@ -279,17 +279,7 @@ Flutter • Python • MQTT • ESP32 • Machine Learning
 
 ---
 
-# 📈 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjanashetti13&show_icons=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanashetti13&layout=compact"/>
-
-</div>
-
----
 
 # 🌱 Currently Working On
 
