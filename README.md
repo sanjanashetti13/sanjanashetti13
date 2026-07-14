@@ -4,7 +4,7 @@
 
 # Hi, I'm Sanjana Shetti 👋
 
-### AI Engineer • Full Stack Developer • CS Undergrad
+### AI and Full Stack Developer • CS Undergrad
 
 <p>
 Building AI-powered products, distributed systems, and scalable web applications.
