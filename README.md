@@ -49,8 +49,6 @@ Through internships, freelance work, research, and hackathons, I've developed pr
 
 - Third Place — Samved Hackathon 2026
 - Top 25 Teams among 500+ nationwide participants
-- ₹50,000 Cash Prize
-- Research Manuscript Communicated to JCST
 - Research Internship at Traction Layer AI
 - Project Internship at Infosys
 - Freelance Full-Stack Developer at Klean Tech Systems
