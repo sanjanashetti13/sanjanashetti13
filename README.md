@@ -213,8 +213,6 @@ Open5GS • UERANSIM • Mininet-WiFi • Linux
 
 - Third Place — Samved Hackathon 2026
 - Top 25 Teams among 500+ Teams
-- ₹50,000 Cash Prize
-- Research Manuscript Communicated to JCST
 
 ---
 
