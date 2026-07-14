@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=AI + Application;Full-Stack+Developer;Building+Production+AI+Systems;Computer+Science+Student+%40+KLE+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;Building+Scalable+Software;Computer+Science+Student+%40+KLE+Tech" />
 
 # Hi, I'm Sanjana Shetti 👋
 
-### AI and Full Stack Developer • CS Undergrad
+### Computer Science Engineering Student • Full-Stack Developer
 
-<p>
-Building AI-powered products, distributed systems, and scalable web applications.
-</p>
+Building scalable software, intelligent systems, and real-world applications.
 
 <a href="https://www.linkedin.com/in/sanjana-shetti-8bb8072ab/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -22,42 +20,39 @@ Building AI-powered products, distributed systems, and scalable web applications
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://sanjana-portfolio-website-three.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a Computer Science Engineering student at **KLE Technological University** with a strong interest in:
+I'm a Computer Science Engineering student at **KLE Technological University** passionate about designing and building software that solves real-world problems.
 
-* Artificial Intelligence
-* Large Language Models (LLMs)
-* Distributed Systems
-* Full Stack Development
-* Agentic AI Applications
-* Cloud & Infrastructure
+My interests include:
 
-I enjoy building products that solve real-world problems—from AI-powered healthcare solutions to decentralized service discovery systems.
+- Software Engineering
+- Full-Stack Development
+- Machine Learning
+- Distributed Systems
+- Blockchain
+- Cloud Technologies
 
-### Quick Highlights
+I enjoy building end-to-end applications—from production SaaS platforms and intelligent software systems to distributed architectures and research-driven solutions.
 
-🏆 **3rd Place (All India)** — Samved Hackathon 2026
+---
 
-🥇 Top 25 Teams among 500+ nationwide participants
+# 🏆 Highlights
 
-💰 ₹50,000 Prize Winner
-
-🤖 Built production-grade AI systems involving:
-
-* Speech-to-Text
-* Speaker Diarization
-* RAG Pipelines
-* Multi-Agent Architectures
-* LLM-Based Clinical Documentation
-
-⚡ Built SaaS products used in real business environments
-
-🔗 Experience working with Beckn Protocol Microservices
+- 🥉 **3rd Place (All India)** — Samved Hackathon 2026
+- 🏅 Top 25 Teams among 500+ nationwide participants
+- 💰 ₹50,000 Cash Prize Winner
+- 💼 Freelance developer delivering production software for business operations
+- 📄 Research manuscript communicated to **JCST**
+- 🤝 Internship experience at **Traction Layer AI** and **Infosys**
 
 ---
 
@@ -66,111 +61,58 @@ I enjoy building products that solve real-world problems—from AI-powered healt
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sql" />
 </p>
 
-### Frameworks & Libraries
+### Frameworks
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flutter" />
 </p>
 
-### Databases & Tools
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,linux,docker,vercel" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
-### AI / ML
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vercel,vscode" />
+</p>
+
+### Technologies
 
 ```text
+REST APIs
+Microservices
+RAG
 LLMs
-RAG Pipelines
-LangChain
-Agentic AI
-Prompt Engineering
-Speech-to-Text
-Speaker Diarization
-Multimodal AI
-Machine Learning
+XGBoost
+Blockchain
+MQTT
+Docker
+CI/CD
 ```
 
 ---
 
 # 🏗 Featured Projects
 
-## 🏥 Ambient AI — Clinical Documentation Platform
+## 📋 SmartQuote
 
-Research Intern @ Traction Layer AI
+Production SaaS platform developed for business quotation and invoice automation.
 
-### Highlights
+**Highlights**
 
-• Real-time physician-patient conversation capture
+- Managed 1000+ products
+- Reduced quotation preparation time by 80%
+- Automated GST calculations
+- Bulk Excel import
+- Invoice & customer management
 
-• Multilingual Speech-to-Text pipeline
-
-• Speaker Diarization
-
-• SOAP Note Generation using LLMs
-
-• Multi-Agent RAG Architecture
-
-• Privacy-focused healthcare workflows
-
-### Tech
-
-```text
-Python • FastAPI • LangChain • OpenAI • RAG • Vector Databases
-```
-
----
-
-## 🔗 Decentralized Slot Booking System
-
-Infosys Project Internship
-
-Built a Beckn-compliant distributed architecture consisting of:
-
-* Gateway
-* BAP
-* BPP
-* AI Service
-
-Features:
-
-✅ Service Discovery
-
-✅ Asynchronous Workflows
-
-✅ Inter-Service Communication
-
-✅ Microservices Architecture
-
-### Tech
-
-```text
-Node.js • Express • PostgreSQL • Beckn Protocol
-```
-
----
-
-## 📋 SmartQuote — SaaS Quotation Platform
-
-Production application developed for business operations.
-
-### Impact
-
-📦 Managed 1000+ products
-
-⚡ Reduced quotation preparation time by 80%
-
-📊 Automated GST calculations
-
-📁 Bulk Excel Import Support
-
-🧾 Invoice & Customer Management
-
-### Tech
+**Tech**
 
 ```text
 React • Node.js • MongoDB • Vercel
@@ -178,126 +120,120 @@ React • Node.js • MongoDB • Vercel
 
 ---
 
-## 🤖 Multimodal Generative AI Copilot
+## 🏥 Ambient AI Clinical Documentation
 
-AI assistant capable of understanding:
+Built an intelligent clinical documentation platform during my research internship.
 
-* PDFs
-* Images
-* Audio
-* Documents
-* Text
+**Highlights**
 
-Features:
+- Multilingual Speech-to-Text
+- Speaker Diarization
+- SOAP Note Generation
+- Multi-Agent RAG
+- Privacy-aware workflows
 
-* OCR Processing
-* RAG Retrieval
-* Context-Aware Question Answering
-* Multi-document Understanding
-
-### Tech
+**Tech**
 
 ```text
-Python • LangChain • OpenAI • OCR • Vector DB
+Python • FastAPI • LangChain • RAG
 ```
 
 ---
 
-## ⛓️ Consensus-Aware Blockchain Simulator
+## ⛓️ AI-Assisted Bitcoin Candidate Block Construction
 
-### Highlights
+Research project focused on optimizing Bitcoin candidate block construction using machine learning trained on over **11 million** historical transactions.
 
-* Simulated Proof-of-Work blockchain networks
-* Performance benchmarking
-* Throughput analysis
-* Latency prediction
-* ML-based forecasting
+**Highlights**
 
-### Results
+- Transaction Ranking
+- Confirmation Latency Prediction
+- Candidate Block Optimization
+- FastAPI Dashboard
+- XGBoost Models
 
-🎯 Up to 90% prediction accuracy
-
-### Tech
+**Tech**
 
 ```text
-Python • Scikit-Learn • Jupyter Notebook
+Python • XGBoost • FastAPI • Streamlit
 ```
 
 ---
 
-## 💧 Smart Water Distribution System
+## 🌐 Decentralized Slot Booking System
 
-🥉 3rd Place — Samved Hackathon 2026
+Built during Infosys Project Internship using Beckn Protocol.
 
-Built an IoT-powered intelligent water management platform.
+**Highlights**
 
-### Features
+- Microservices Architecture
+- Service Discovery
+- Gateway, BAP & BPP
+- Distributed Communication
 
-* ESP32 + Arduino Mega Integration
-* Automated Valve Control
-* MQTT Communication
-* Flutter Dashboard
-* Demand Prediction Models
-
-### Impact
-
-📈 90% Forecast Accuracy
-
-💧 Reduced Supply Imbalance by 20%
-
-### Tech
+**Tech**
 
 ```text
-Flutter • Python • MQTT • ESP32 • Machine Learning
+Node.js • PostgreSQL • Beckn Protocol
+```
+
+---
+
+## 📡 Detection & Mitigation of Security Threats in Simulated 5G Networks
+
+Implemented a complete 5G Standalone network using Open5GS and UERANSIM to simulate and mitigate real-world security threats.
+
+**Highlights**
+
+- DDoS Mitigation
+- Edge Computing
+- Subscriber Authentication
+- Mobility Recovery
+- Traffic Monitoring
+
+**Tech**
+
+```text
+Open5GS • UERANSIM • Mininet-WiFi • Linux
 ```
 
 ---
 
 # 💼 Experience
 
-| Role                 | Organization       | Duration            |
-| -------------------- | ------------------ | ------------------- |
-| Full Stack Developer | Klean Tech Systems | May 2026            |
-| Research Intern      | Traction Layer AI  | Sep 2025 – Mar 2026 |
-| Project Intern (SoW) | Infosys            | Aug 2025 – Jan 2026 |
+| Role | Organization | Duration |
+|------|--------------|----------|
+| Full-Stack Developer | Klean Tech Systems | May 2026 |
+| AI Research Intern | Traction Layer AI | Sep 2025 – Mar 2026 |
+| Project Intern | Infosys | Aug 2025 – Jan 2026 |
 
 ---
 
 # 🏆 Achievements
 
-🥉 3rd Place — Samved Hackathon 2026
-
-🏅 Top 25 Teams among 500+ Teams
-
-💰 ₹50,000 Prize Winner
-
-🤖 Built Production AI Healthcare Platform
-
-🔗 Developed Beckn Protocol Distributed Systems
-
-⚡ Delivered SaaS Products Used in Real Businesses
+- 🥉 3rd Place — Samved Hackathon 2026
+- 🏅 Top 25 Teams among 500+ Teams
+- 💰 ₹50,000 Cash Prize
+- 📄 Research Manuscript Communicated to JCST
 
 ---
 
+# 🌱 Currently Exploring
 
-
-# 🌱 Currently Working On
-
-* Agentic AI Systems
-* Healthcare AI Applications
-* Multi-Agent Architectures
-* Distributed Systems
-* LLM Evaluation & RAG
-* Production-Grade SaaS Products
+- Distributed Systems
+- Machine Learning
+- System Design
+- Cloud Computing
+- Open Source
 
 ---
 
 <div align="center">
 
-### Let's Build Something Meaningful
+### Let's Connect
 
-📧 [sanjanashetti13@gmail.com](mailto:sanjanashetti13@gmail.com)
+📧 **sanjanashetti13@gmail.com**
 
-💼 Open to Internships, Full-Time Roles, Research Opportunities, Collaborations & Hackathons
+💼 Open to Software Engineering Internships, Research Opportunities, Open Source, and Collaborations.
 
 </div>
