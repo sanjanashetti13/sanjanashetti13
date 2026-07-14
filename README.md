@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=AI+Engineer;Full-Stack+Developer;Building+Production+AI+Systems;Computer+Science+Student+%40+KLE+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=AI;Full-Stack+Developer;Building+Production+AI+Systems;Computer+Science+Student+%40+KLE+Tech" />
 
 # Hi, I'm Sanjana Shetti 👋
 
